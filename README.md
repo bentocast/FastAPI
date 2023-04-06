@@ -1,2 +1,2 @@
-# fast-api
-A sample project for fast api
+# FastAPI
+A sample project for FastAPI
